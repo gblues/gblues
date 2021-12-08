@@ -1,7 +1,7 @@
 <div align="center">
-[![Twitter][1.2]][1]
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+Social media: [![Twitter][twitter_icon]][twitter_url]
 
-[1]: https://twitter.com/genericblues
+[twitter_icon]: https://raw.githubusercontent.com/gblues/gblues/master/twitter_icon.png (twitter icon without padding)
+[twitter_url]: https://twitter.com/genericblues
 </div>
